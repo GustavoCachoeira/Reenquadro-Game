@@ -21,6 +21,10 @@ O desenvolvimento foca em garantir que a representação de demandas de saúde m
 🛠️ Tecnologias Previstas
 Engine: [Unity]
 
+Linaguagem: [C#]
+
+Artes: [Aseprite]
+
 Modelagem 3D & Assets: [Blender]
 
 Áudio: [Voicemeeter para testes de mixagem narrativa]
