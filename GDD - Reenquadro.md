@@ -1,15 +1,15 @@
 # Game Design Document (GDD)
 
-# [Nome do Jogo]
+# [Reenquadro]
 
-**Aluno:** Nome Sobrenome  
-**E-mail:** aluno@catolica.edu  
+**Aluno:** Gustavo Cachoeira  
+**E-mail:** gustavo.cachoeira@catolicasc.edu.br  
 
 **Status do Projeto:**  
-Pesquisa / Prototipagem / Produção / Beta / Finalizado
+Pesquisa
 
 **Versão do Documento:** v0.1  
-**Última atualização:** DD/MM/AAAA
+**Última atualização:** 12/04/2026
 
 ---
 
@@ -17,38 +17,25 @@ Pesquisa / Prototipagem / Produção / Beta / Finalizado
 
 ## Elevated Pitch
 
-Descreva o jogo em **2–3 frases**. "Equivalente a explicar sobre o jogo em 30s a 1m"
-
-Exemplo:
-
-> Um jogo de plataforma 2D onde o jogador controla um robô tentando escapar de uma fábrica automatizada resolvendo puzzles baseados em física.
+Reenquadro é um jogo de puzzle narrativo que desafia o jogador a alternar a perspectiva do cenário entre 2D e 3D para revelar rotas e soluções antes invisíveis. Essa mecânica atua como uma metáfora interativa para a empatia e a psicoeducação, ilustrando como a mudança de ponto de vista pode quebrar barreiras emocionais limitantes. O objetivo da experiência é promover uma reflexão sensível sobre a saúde mental, guiando o jogador rumo a uma percepção mais livre, leve e equilibrada diante dos desafios reais.
 
 ---
 
 ## Gênero
 
-Exemplo:
-
-- Plataforma
 - Puzzle
-- Roguelike
-- Estratégia
 
 ---
 
 ## Público-Alvo
 
-Exemplo:
-
-Jogadores casuais entre 16 e 35 anos que gostam de jogos rápidos e desafiadores.
+Jovens adultos e estudantes interessados em saúde mental e jogos de impacto social. O público-alvo consiste em pessoas que buscam ferramentas lúdicas para o exercício da empatia e do reenquadramento cognitivo, preferindo uma jogabilidade contemplativa em vez de competitiva.
 
 ---
 
 ## Plataformas
 
 - PC
-- Web
-- Mobile
 
 ---
 
